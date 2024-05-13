@@ -1,0 +1,6 @@
+# IntellijIDEA project files
+.idea
+*.iml
+
+# model files
+*.pkl
